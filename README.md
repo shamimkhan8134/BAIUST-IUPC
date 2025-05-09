@@ -4,4 +4,4 @@ In 2025, I participated as a contestant of team CSTU_UJANI-Fulchua in the BAIUST
 # My team CSTU_UJANI-Fulchua accured 5th place in BAIUST(IUPC-2025) Onsite Programming Contest.
 
 Here is the Ranking List -> https://coderoj.com/c/baiust-iupc-25/standings
-![image alt]()
+![image alt](https://github.com/shamimkhan8134/BAIUST-IUPC/blob/main/Screenshot%202025-05-09%20095830.png)
